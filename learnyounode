@@ -1,0 +1,40 @@
+
+# LEARN YOU THE NODE.JS FOR MUCH WIN!
+
+## MAKE IT MODULAR (Exercise 6 of 13)
+
+
+Your submission results compared to the expected:
+
+                 ACTUAL                                 EXPECTED                
+────────────────────────────────────────────────────────────────────────────────
+
+   ""                                  !=    "CHANGELOG.md"                     
+                                       !=    "LICENCE.md"                       
+                                       !=    "README.md"                        
+                                       !=    ""                                 
+
+────────────────────────────────────────────────────────────────────────────────
+
+ ✗
+
+ Submission results did not match expected!
+
+ ✗
+
+ Did not use an additional module file, you must require() a module to help
+ solve this exercise
+
+
+# FAIL
+
+ Your solution to MAKE IT MODULAR didn't pass. Try again!
+
+─────────────────────────────────────────────────────────────────────────────
+
+  » To print these instructions again, run: learnyounode print
+  » To execute your program in a test environment, run: learnyounode run
+    program.js
+  » To verify your program, run: learnyounode verify program.js
+  » For help run: learnyounode help
+
